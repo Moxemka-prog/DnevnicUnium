@@ -2,9 +2,6 @@
 	padding: 0;
 	margin: 0;
 }
-p{
-	font-size: 30px
-}
 .index{
 	background: url(http://sun9-33.userapi.com/c847017/v847017277/1f6236/Kbm4HaWz6c4.jpg) no-repeat;
 	background-size: 100%;
@@ -22,6 +19,7 @@ header, footer{
 	text-align: center;
 	background: #75ccea;
 	border: 6px #75ccea outset;
+	font-size: 30px;
 }
 .Vafelki{
 	margin-top: 30vh;
@@ -32,4 +30,16 @@ header, footer{
 }
 .pechenki{
 	font-size: 3em;
+}
+.index2{
+	font-size: 2em;
+}
+.mishcrodetsa{
+	margin: auto;
+	font-size: 2em;
+	background: #ff8a8a;
+	border: 3px #ffbfbf inset;
+}
+.developer{
+	text-align: center;
 }
